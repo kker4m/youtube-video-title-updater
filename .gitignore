@@ -1,0 +1,7 @@
+.env
+__pycache__/
+oauth_credentials.json
+token.json
+client_secret*.json
+venv/
+.venv/
